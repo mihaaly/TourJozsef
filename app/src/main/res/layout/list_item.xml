@@ -1,0 +1,69 @@
+<!-- Custom layout for the ListView (container.xml) implemented by the custom ArrayAdapter
+InfoItemsAdapter.java -->
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="@dimen/card_corner_radius"
+    card_view:cardElevation="@dimen/card_elevation"
+    card_view:cardPreventCornerOverlap="true"
+    card_view:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Picture of the place. -->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="192dp"
+            android:scaleType="centerCrop"
+            tools:src="@drawable/building_site_01" />
+
+        <!-- Name of the place. -->
+        <TextView
+            android:id="@+id/nameView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/text_space_body"
+            android:paddingRight="@dimen/text_space_body"
+            android:paddingTop="@dimen/text_space_title"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textStyle="bold"
+            tools:text="Name of the place" />
+
+        <!-- Short description of the place. -->
+        <TextView
+            android:id="@+id/descriptionView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/text_space_body"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="@string/string_building_sites_description01" />
+
+        <!-- Divider. -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/text_space_body"
+            android:layout_marginRight="@dimen/text_space_body"
+            android:background="?android:attr/dividerVertical">
+        </View>
+
+        <!-- Address of the place. -->
+        <TextView
+            android:id="@+id/addressView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/text_space_title"
+            android:paddingLeft="@dimen/text_space_body"
+            android:paddingRight="@dimen/text_space_body"
+            android:paddingTop="@dimen/text_divider_space"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="address" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

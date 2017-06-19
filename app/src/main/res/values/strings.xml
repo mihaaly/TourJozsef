@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">Investment Guide</string>
+
+    <!-- Drawer strings. -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- Drawer item strings. -->
+    <string name="string_building_sites">Building sites</string>
+    <string name="string_shops">Shops</string>
+    <string name="string_pubs">Dives</string>
+    <string name="string_attractions">Attractions</string>
+
+    <!-- Action bar settings. -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Welcome text, what is this app.  -->
+    <string name="hello_home_fragment">Investment guide for businessmen who seek opportunities
+        on uncharted soil in Budapest\'s 8th district.</string>
+
+    <!-- BuildingSitesFragment texts. -->
+
+    <!-- Site 01-->
+    <string name="string_building_sites_title01">Lot number 4394/06/B4985</string>
+    <string name="string_building_sites_description01">Close to the metro line and the new business
+        centre, situated on a corner lot. Ideal for fancy, money laundering start-ups.
+        \n<b>Size:</b> 3000 sq.m.
+    </string>
+    <string name="string_building_sites_address01"><b>Address:</b> 1083 Tömő utca 21.</string>
+
+    <!-- Site 02 -->
+    <string name="string_building_sites_title02">Lot number 4563/00/AA4968</string>
+    <string name="string_building_sites_description02">Quiet street for ethnic minorities:
+        no restaurants, no tourists, no shops. Ideal for a condominium.
+        \n<b>Size:</b> 2500 sq. m.
+    </string>
+    <string name="string_building_sites_address02"><b>Address:</b> 1089 Dugonics utca 9.</string>
+
+    <!-- Site 03 -->
+    <string name="string_building_sites_title03">Lot number 3286/00/A3</string>
+    <string name="string_building_sites_description03">It\'s huge. For cheap apartment blocks.
+        \n<b>Size:</b> 4500 sq. m.
+    </string>
+    <string name="string_building_sites_address03"><b>Address:</b> 1089 Kőris utca 5a</string>
+
+    <!-- Site 04 -->
+    <string name="string_building_sites_title04">Lot number 229583//07/CA3982</string>
+    <string name="string_building_sites_description04">All is to say: it is situated opposite of
+        our attractions: the scaffold-house.
+        \n<b>Size:</b> 2000 sq. m.
+    </string>
+    <string name="string_building_sites_address04"><b>Address:</b> 1089 Kőris utca 7.</string>
+
+    <!-- Site 05 -->
+    <string name="string_building_sites_title05">Lot number 5893/00/B356</string>
+    <string name="string_building_sites_description05">No comment.
+        \n<b>Size:</b> 6500 sq. m.
+    </string>
+    <string name="string_building_sites_address05"><b>Address:</b>
+        1089 Diószeghy Sámuel utca 2-8.</string>
+
+    <!-- Site 06 -->
+    <string name="string_building_sites_title06">Lot number 3458/00/A39483</string>
+    <string name="string_building_sites_description06">Ideal for a crowded dormitory, we have
+        vis-à-vis our other her attraction: "forest" university
+        \n<b>Size:</b> 1500 sq. m.
+    </string>
+    <string name="string_building_sites_address06"><b>Address:</b> 1089 Diószeghy Sámuel utca 28.</string>
+
+    <!-- KiosksFragment texts. -->
+    <!-- Shop 01-->
+    <string name="string_shops_title01">Engraver\'s shop</string>
+    <string name="string_shops_description01">László Bolgár\'s engraver shop once sold tools and
+        whatnot. </string>
+    <string name="string_shops_address01"><b>Address:</b> 1089 Diószeghy Sámuel utca 11.</string>
+
+    <!-- Shop 02-->
+    <string name="string_shops_title02">Supermarket</string>
+    <string name="string_shops_description02">Never open supermarket with poor merchandise.</string>
+    <string name="string_shops_address02"><b>Address:</b> 1083 Tömő utca 46a</string>
+
+    <!-- Shop 03-->
+    <string name="string_shops_title03">Grill chicken kiosk</string>
+    <string name="string_shops_description03">Vibe of the Balkans, high prices. Local government
+        will soon shut it down.</string>
+    <string name="string_shops_address03"><b>Address:</b> 1083 Szigony utca 43.</string>
+
+    <!-- Shop 04-->
+    <string name="string_shops_title04">Book store</string>
+    <string name="string_shops_description04">Cheap books only in Hungarian on outdated
+        subjects.</string>
+    <string name="string_shops_address04"><b>Address:</b> 1083 Szigony utca 43.</string>
+
+    <!-- Shop 05-->
+    <string name="string_shops_title05">Pharmacy</string>
+    <string name="string_shops_description05">Chemist\'s selling anti-TB drugs.</string>
+    <string name="string_shops_address05"><b>Address:</b> 1089 Diószeghy Sámuel utca 9b</string>
+
+    <!-- Shop 06-->
+    <string name="string_shops_title06">Ironmonger</string>
+    <string name="string_shops_description06">Fast money: stolen cars, scrap from clear-outs is
+        welcome.</string>
+    <string name="string_shops_address06"><b>Address:</b> 1089 Sárkány utca 6.</string>
+
+    <!-- Shop 07-->
+    <string name="string_shops_title07">Non-Stop Grocery</string>
+    <string name="string_shops_description07">Now defunct grocery.</string>
+    <string name="string_shops_address07"><b>Address:</b> 1089 Sárkány utca 12a</string>
+
+    <!-- Shop 08-->
+    <string name="string_shops_title08">Lock rental</string>
+    <string name="string_shops_description08">Chains, locks for your rented scooter or bike.</string>
+    <string name="string_shops_address08"><b>Address:</b> 1083 Tömő utca 38a</string>
+
+    <!-- Shop 09-->
+    <string name="string_shops_title09">Mortuary Shop</string>
+    <string name="string_shops_description09">Coffins for the nearby hospital.</string>
+    <string name="string_shops_address09"><b>Address:</b> 1091 Üllői út 105.</string>
+
+    <!-- Shop 10-->
+    <string name="string_shops_title10">Optician</string>
+    <string name="string_shops_description10">Do you want to see the true nature of things?</string>
+    <string name="string_shops_address10"><b>Address:</b> 1091 Üllői út 109.</string>
+
+    <!-- DivesFragment texts. -->
+    <!-- Dive 01-->
+    <string name="string_dives_title01">Bankrupt pub number 1</string>
+    <string name="string_dives_description01">Close to the new business centre in a dilapidated
+        building.</string>
+    <string name="string_dives_address01"><b>Address:</b> 1083 Tömő utca 23a</string>
+
+    <!-- Dive 02-->
+    <string name="string_dives_title02">Bankrupt pub number 2</string>
+    <string name="string_dives_description02">Could be cheap pub in the middle of a creepy
+        neighbourhood.</string>
+    <string name="string_dives_address02"><b>Address:</b> 1089 Kálvária utca 20.</string>
+
+    <!-- Dive 03-->
+    <string name="string_dives_title03">Bankrupt pub number 3</string>
+    <string name="string_dives_description03">Vis-à-vis the hospital, central location.</string>
+    <string name="string_dives_address03"><b>Address:</b> 1083 Jázmin utca 3483.</string>
+
+    <!-- Dive 04-->
+    <string name="string_dives_title04">Csemege Pub</string>
+    <string name="string_dives_description04">Post-communist place, growth at hand.</string>
+    <string name="string_dives_address04"><b>Address:</b> 1091 Üllői út 115b</string>
+
+    <!-- Dive 05-->
+    <string name="string_dives_title05">Bankrupt pub number 4</string>
+    <string name="string_dives_description05">New façade, anything is possible.</string>
+    <string name="string_dives_address05"><b>Address:</b> 1091 Üllői út 111.</string>
+
+    <!-- Dive 06-->
+    <string name="string_dives_title06">Bankrupt pub number 5</string>
+    <string name="string_dives_description06">Yet another gloomy place with no entrance.</string>
+    <string name="string_dives_address06"><b>Address:</b> 1083 Tömő utca 23b</string>
+
+    <!-- AttractionsFragment texts. -->
+    <!-- Attraction 01 -->
+    <string name="string_attractions_title01">The Scaffold-House</string>
+    <string name="string_attractions_description01">This piece of art was designed with the scaffold
+        never to be dismounted.</string>
+    <string name="string_attractions_address01"><b>Address:</b> 1089 Kőris utca 10.</string>
+
+    <!-- Attraction 02 -->
+    <string name="string_attractions_title02">Mobile Police Station</string>
+    <string name="string_attractions_description02">The essence of high tech, police may be deployed
+        temporarily on a regular basis.</string>
+    <string name="string_attractions_address02"><b>Address:</b> 1089 Diószeghy Sámuel utca 19.</string>
+
+    <!-- Attraction 03 -->
+    <string name="string_attractions_title03">Phone box</string>
+    <string name="string_attractions_description03">Small unit with walls and a roof, containing
+        a public telephone, in the street, etc.
+        (Oxford Advanced Learners\' Dictionary 8th Ed.)</string>
+    <string name="string_attractions_address03"><b>Address:</b> 1091 Üllői út 119.</string>
+
+    <!-- Attraction 04 -->
+    <string name="string_attractions_title04">Atlantis mural</string>
+    <string name="string_attractions_description04">The symbol of our neighbourhood.</string>
+    <string name="string_attractions_address04"><b>Address:</b> 1096 Lenhossék utca 41. </string>
+
+    <!-- Attraction 05 -->
+    <string name="string_attractions_title05">The Ghost House</string>
+    <string name="string_attractions_description05">House haunted by lazybones.</string>
+    <string name="string_attractions_address05"><b>Address:</b> 1089 Kálvária utca 15.</string>
+
+    <!-- Attraction 06 -->
+    <string name="string_attractions_title06">\'Forest\' University</string>
+    <string name="string_attractions_description06">Europe\'s only university built in
+        a public park.</string>
+    <string name="string_attractions_address06"><b>Address:</b> 1082 Üllői út 82.</string>
+
+    <!-- Attraction 07 -->
+    <string name="string_attractions_title07">Public toilet</string>
+    <string name="string_attractions_description07">Inaccessible public toilet for those
+        in need.</string>
+    <string name="string_attractions_address07"><b>Address:</b> 1089 Orczy út 6.</string>
+
+    <!-- Attraction 08 -->
+    <string name="string_attractions_title08">Hospital</string>
+    <string name="string_attractions_description08">The district\'s hospital which looks like an
+        underpass.</string>
+    <string name="string_attractions_address08"><b>Address:</b> 1083 Tömő utca 25-29.</string>
+
+    <!-- Attraction 09 -->
+    <string name="string_attractions_title09">Macadam</string>
+    <string name="string_attractions_description09">Built by the Romans. (What are the they ever
+        given us in return?)</string>
+    <string name="string_attractions_address09"><b>Address:</b> 1083 Tömő utca</string>
+
+    <!-- Attraction 10 -->
+    <string name="string_attractions_title10">Prison street</string>
+    <string name="string_attractions_description10">Fence enclosed, CCTV guarded street.</string>
+    <string name="string_attractions_address10"><b>Address:</b> 1083 Illés köz</string>
+
+    <!-- Attraction 11 -->
+    <string name="string_attractions_title11">Local environmentalists\' office</string>
+    <string name="string_attractions_description11">For saving trees, they moved up in to the
+        foliage.</string>
+    <string name="string_attractions_address11"><b>Address:</b> 1083 Szigony utca 36.</string>
+
+</resources>
